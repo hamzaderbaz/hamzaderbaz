@@ -8,8 +8,7 @@
 
 
 <img align="right" alt="Coding" width="100%" src="https://github.com/hamzaderbaz/hamzaderbaz/assets/51893602/3590a134-4e4f-43ed-883e-64c06907c150">
-
-
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaderbaz" alt="hamzaderbaz" /></a> </p>
 
 
@@ -28,8 +27,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 
+<p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -58,6 +57,14 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaderbaz&" alt="hamzaderbaz" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hamzaderbaz&show_icons=true&locale=en" alt="hamzaderbaz" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaderbaz&show_icons=true&locale=en&layout=compact" alt="hamzaderbaz" /></p>
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamzaderbaz&show_icons=true&locale=en" alt="hamzaderbaz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaderbaz&show_icons=true&locale=en&layout=compact" alt="hamzaderbaz" /></p>
+<br />
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaderbaz&" alt="hamzaderbaz" /></p>
+
