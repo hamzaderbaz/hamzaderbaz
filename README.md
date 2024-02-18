@@ -7,11 +7,7 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
 
-<!-- <img align="right" alt="Coder GIF" width="100%" src="https://github.com/hamzaderbaz/My-README/assets/51893602/7fe2fb03-7f8d-48aa-b6a8-1e04f9141847"/> -->
-<img align="right" alt="Coding" width="100%" src="https://github.com/hamzaderbaz/My-README/assets/51893602/7fe2fb03-7f8d-48aa-b6a8-1e04f9141847">
-
-
-<!-- <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px> -->
+<img align="right" alt="Coding" width="100%" src="https://github.com/hamzaderbaz/hamzaderbaz/assets/51893602/3590a134-4e4f-43ed-883e-64c06907c150">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaderbaz" alt="hamzaderbaz" /></a> </p>
@@ -63,5 +59,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamzaderbaz&show_icons=true&locale=en" alt="hamzaderbaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaderbaz&" alt="hamzaderbaz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaderbaz&" alt="hamzaderbaz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaderbaz&show_icons=true&locale=en&layout=compact" alt="hamzaderbaz" /></p>
