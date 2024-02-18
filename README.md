@@ -43,9 +43,9 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
 
@@ -58,6 +58,6 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamzaderbaz&show_icons=true&locale=en" alt="hamzaderbaz" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaderbaz&" alt="hamzaderbaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaderbaz&show_icons=true&locale=en&layout=compact" alt="hamzaderbaz" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaderbaz&" alt="hamzaderbaz" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hamzaderbaz&show_icons=true&locale=en" alt="hamzaderbaz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaderbaz&show_icons=true&locale=en&layout=compact" alt="hamzaderbaz" /></p>
